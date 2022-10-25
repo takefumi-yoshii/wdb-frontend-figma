@@ -1,1 +1,0 @@
-# wdb-frontend-figma
