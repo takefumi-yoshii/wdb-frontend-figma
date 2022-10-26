@@ -7,13 +7,7 @@ function App() {
   return (
     <ChakraProvider theme={theme}>
       <div className="App">
-        <Button
-          borderColor="brand.101"
-          backgroundColor="teal.600"
-          borderWidth={3}
-          color={"fuga.50"}
-          size={"lg"}
-        >
+        <Button backgroundColor={"emerald.500"} size={"lg"}>
           Button
         </Button>
       </div>
