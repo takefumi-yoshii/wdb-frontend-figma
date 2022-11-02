@@ -9,7 +9,7 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
     "gen:theme-typings": "chakra-cli tokens --strict-component-types ./chakra-theme.ts",
-    "chromatic": "npx chromatic --project-token=8fd4d0b002d4"
+    "chromatic": "chromatic --project-token=CHROMATIC_PROJECT_TOKEN"
   },
   "dependencies": {
     "@chakra-ui/react": "^2.3.6",
